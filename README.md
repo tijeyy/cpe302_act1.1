@@ -8,4 +8,4 @@ At the end of this exercise, the students are expected to: <br>
 HTML CODE at index.html
 
 NETLIFY LINK FOR ACTIVITY 1.1: <br>
-<i> https://introtohtmlact1-1.netlify.app/ <i>
+<i> https://cpe302act1-1.netlify.app/ <i>
